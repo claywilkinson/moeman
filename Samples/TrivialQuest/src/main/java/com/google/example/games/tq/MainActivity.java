@@ -33,7 +33,6 @@ import com.google.example.games.basegameutils.BaseGameUtils;
  * Even though winning the game is fun, the purpose of this sample is to
  * illustrate the simplest possible game that uses the API.
  *
- * @author Bruno Oliveira (Google)
  */
 public class MainActivity extends Activity
     implements GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener,
